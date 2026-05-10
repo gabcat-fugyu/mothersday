@@ -1,0 +1,35 @@
+body{
+  margin:0;
+  background: linear-gradient(135deg,#ffd6e7,#fff0f5);
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  height:100vh;
+}
+
+.card{
+  background:white;
+  width:80%;
+  max-width:500px;
+
+  padding:30px;
+
+  border-radius:20px;
+
+  text-align:center;
+
+  box-shadow:0 0 20px rgba(0,0,0,0.2);
+}
+
+.title{
+  color:#ff4f87;
+}
+body{
+  margin: 0;
+  background-image: url("hahanohi.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
